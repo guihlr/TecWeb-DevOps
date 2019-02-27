@@ -1,0 +1,23 @@
+﻿p{
+    color: purple; 
+    text-decoration: none;
+    font-size: 18px;
+ 
+}   
+
+body{
+     
+     width: 95%;
+     margin: auto;
+
+     font-family: sans-serif;
+     line-height: 1,5;
+
+     background-color: #E0FFFF;
+
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
